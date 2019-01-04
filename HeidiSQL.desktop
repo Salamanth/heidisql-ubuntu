@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=HeidiSQL
+Comment=HeidiSQL
+Exec=/home/hadrien/HeidiSQL/heidisql.sh
+Icon=/home/hadrien/HeidiSQL/heidisql.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
